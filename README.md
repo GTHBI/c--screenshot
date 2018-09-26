@@ -1,1 +1,1 @@
-# c--screenshot
+# c++ screenshot based on mouse movement
